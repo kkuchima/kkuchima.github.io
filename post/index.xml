@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on kkuchima logs</title>
+    <link>https://kkuchima.github.io/post/</link>
+    <description>Recent content in Posts on kkuchima logs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 03 Jan 2022 14:12:51 +0900</lastBuildDate><atom:link href="https://kkuchima.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 年の個人 OKR</title>
+      <link>https://kkuchima.github.io/post/okr2022/</link>
+      <pubDate>Mon, 03 Jan 2022 14:12:51 +0900</pubDate>
+      
+      <guid>https://kkuchima.github.io/post/okr2022/</guid>
+      <description>2022 OKR 2022 年 Q1 の個人 OKR を設定する
+Objective 1: 業務に関連する能力の向上（業務の品質向上） 比較的得意・好きな分野を伸ばし、弱いところを補強する
+Key Result 1: CKS (Certified Kubernetes Security Specialist) の取得 昨年の目標だったんだけど勉強時間を取れなかったので
+Key Result 2: サンプルアプリケーション 3 つ作成 ありもの利用からの脱却
+Key Result 3: 毎日 commit する まずは習慣作りということで
+Key Result 4: 英会話週 3 回 そろそろ英語喋れるようにならないとやばいので
+Objective 2: 情報発信を増やし将来的に自分を楽にする ”自分がやらないといけない仕事”を減らす
+Key Result 1: Blog 記事執筆 5 本 技術記事を月 1 ~ 2 本公開
+Key Result 2: ハンズオン 3 つ作成 再利用しやすいハンズオンを作る（メンテナンス大変そうだな〜）
+Key Result 3: 社内勉強会 3 回開催 正直需要次第な部分もあるけど</description>
+    </item>
+    
+  </channel>
+</rss>
